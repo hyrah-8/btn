@@ -1,0 +1,33 @@
+
+
+body{
+
+    background-color: black;
+}
+.center
+{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    
+}
+button{
+    border-radius: 50%;
+    border-color: white;
+    height: 30px;
+    width: 30px;
+    background-color: black;
+    margin: 0px 60px;
+}
+.divbutton1{
+ margin-top: 90px;
+}
+.divbutton2{
+    margin-bottom: 120px;
+}
+button:active{
+    background-color: rgba(9, 225, 106, 0.893);
+}
+
+
